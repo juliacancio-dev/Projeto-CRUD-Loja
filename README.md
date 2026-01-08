@@ -101,10 +101,6 @@ Certifique-se de ter os seguintes softwares instalados em sua máquina:
 
 Contribuições são bem-vindas! Se você quiser melhorar este projeto, sinta-se à vontade para abrir issues ou enviar pull requests.
 
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes. (Assumindo licença MIT, caso contrário, ajuste).
-
 ## Autor
 
 - **Julia Cancio** - [GitHub](https://github.com/juliacancio-dev)
